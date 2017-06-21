@@ -1,6 +1,6 @@
 # Monitoring - My written check scripts
-In my work and in private I work a lot with and on monitoring. 
-I use Nagios, Icinga(1) and Icinga2. So I have to write some check scripts for new monitoring request.
+At my work and in private I work a lot on monitoring. 
+I use Nagios, Icinga(1) and Icinga2. So I have to write some check scripts for new monitoring requests.
 I will use this repo for publishing my written check scripts
 
 At the end you will find a list of the current check scripts.
