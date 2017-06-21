@@ -9,5 +9,7 @@ If you have any questions feel free to contact me.
 
 ## Check scripts
 ### check_iis_apppool.bat
+With this script you can monitor if an IIS Application Pool is "Started" or "Stopped".
+
 Using: .\check_iis_apppool.bat Apppoolname <br>
 Example: .\check_iis_apppool.bat WsusPool
